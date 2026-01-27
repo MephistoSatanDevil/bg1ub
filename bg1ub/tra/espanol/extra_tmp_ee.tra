@@ -3,26 +3,26 @@
 @10000 = ~Edie~
 
 //#11166
-@10001 = ~¡Sentirás el aguijón de mi bota si sigues molestándome!~ [%tutu_var%WOMLC02]
-@10002 = ~~ [%tutu_var%FTOWN05]
-@10003 = ~~ [%tutu_var%WOMLC03]
+@10001 = ~[LOW CLASS WOMAN 2] ¡Sentirás el aguijón de mi bota si sigues molestándome!~ [WOMLC02]
+@10002 = ~[FEMALE TOWNSFOLK 5]~ [FTOWN05]
+@10003 = ~[LOW CLASS WOMAN 3]~ [WOMLC03]
 
 //#19704
 @10004 = ~Enna Hendrik~
 
 //#4902
-@10005 = ~Mi maridito no quiere que hable con extraños.~ [%tutu_var%FTOWN02]
+@10005 = ~[FEMALE TOWNSFOLK 2] Mi maridito no quiere que hable con extraños.~ [FTOWN02]
 
 //#13309
-@10006 = ~¡No sois bienvenidos aquí!~
+@10006 = ~[FLAMING FIST BARRACK GUARDS HOSTILE] ¡No sois bienvenidos aquí!~
 
 //#19706
 @10007 = ~Erlin Hendrik~
 
 //#4908
-@10008 = ~No tengo tiempo para hablar con vosotros ahora.~ [%tutu_var%FARME01]
-@10009 = ~~ [%tutu_var%FARME05]
-@10010 = ~~ [%tutu_var%FARME06]
+@10008 = ~[FARMERS 1] No tengo tiempo para hablar con vosotros ahora.~ [FARME01]
+@10009 = ~[FARMERS 5]~ [FARME05]
+@10010 = ~[FARMERS 6]~ [FARME06]
 
 
 //#8959
@@ -32,31 +32,32 @@
 @10012 = ~Feldane~
 
 //#4983
-@10013 = ~Nuestra biblioteca es el harén de conocimiento de un hombre.~ [%tutu_var%READR01]
-@10014 = ~~ [%tutu_var%READR05]
-@10015 = ~~ [%tutu_var%READR06]
+@10013 = ~[READERS, SCRIBES 1] Nuestra biblioteca es el harén de conocimiento de un hombre.~ [READR01]
+//#12608, #12609
+@10014 = ~[READERS, SCRIBES 5]~ [READR05]
+@10015 = ~[READERS, SCRIBES 6]~ [READR06]
 
 //#4984
-@10016 = ~Oh... perdona, pero llego tarde a clase.~ [%tutu_var%READR02]
+@10016 = ~[READERS, SCRIBES 2] Oh... perdona, pero llego tarde a clase.~ [READR02]
 
 //#12238
 @10017 = ~Galkin~
 
 //#4762
-@10018 = ~¿Nadie aceptará mi oferta? ¡Bah! ¡Sois todos unos tacaños!~ [%tutu_var%GALKN01]
-@10019 = ~~ [%tutu_var%GALKN03]
-@10020 = ~~ [%tutu_var%GALKN04]
+@10018 = ~[GALKEN 1] ¿Nadie aceptará mi oferta? ¡Bah! ¡Sois todos unos tacaños!~ [GALKN01]
+@10019 = ~[GALKEN 3]~ [GALKN03]
+@10020 = ~[GALKEN 4]~ [GALKN04]
 
 //#4763
-@10021 = ~Eh... la gota me está dando fuerte en la pierna izquierda, y... ¡tengo que pagar al posadero antes de que se quede con la derecha!~ [%tutu_var%GALKN02]
+@10021 = ~[GALKEN 2] Eh... la gota me está dando fuerte en la pierna izquierda, y... ¡tengo que pagar al posadero antes de que se quede con la derecha!~ [GALKN02]
 
 //#9406
 @10022 = ~Niña~
 
 //#4861
-@10023 = ~He perdido mi muñeca.~ [%tutu_var%FCHIL01]
-@10024 = ~~ [%tutu_var%FCHIL05]
-@10025 = ~~ [%tutu_var%FCHIL06]
+@10023 = ~[FEMALE CHILDREN 1] He perdido mi muñeca.~ [FCHIL01]
+@10024 = ~[FEMALE CHILDREN 5]~ [FCHIL05]
+@10025 = ~[FEMALE CHILDREN 6]~ [FCHIL06]
 
 //#8944
 @10026 = ~¡Dejadme en paz! ¡Sois malos!~
@@ -65,35 +66,35 @@
 @10027 = ~Mujer mediana~
 
 //#11238
-@10028 = ~Ooh, es un día estupendo para conocer nuevos amigos.~ [%tutu_var%HALFF01]
-@10029 = ~~ [%tutu_var%HALFF05]
-@10030 = ~~ [%tutu_var%HALFF06]
+@10028 = ~[HALFLING FEMALE 1] Ooh, es un día estupendo para conocer nuevos amigos.~ [HALFF01]
+@10029 = ~[HALFLING FEMALE 5]~ [HALFF05]
+@10030 = ~[HALFLING FEMALE 6]~ [HALFF06]
 
 //#13343
-@10031 = ~¡Habéis abusado de nuestra hospitalidad!~
+@10031 = ~[HALFLING FEMALE OF GULLYKIN HOSTILE] ¡Habéis abusado de nuestra hospitalidad!~
 
 //#13344
-@10032 = ~Bienvenidos de nuevo. Pensaba que ya os habríais marchado. Sin embargo, es un placer que no lo hayáis hecho.~
+@10032 = ~[HALFLING FEMALE OF GULLYKIN 2(MABLEDALE) POST HIGH CHAR.] Bienvenidos de nuevo. Pensaba que ya os habríais marchado. Sin embargo, es un placer que no lo hayáis hecho.~
 
 //#13345
-@10033 = ~Me sorprende volver a veros. ¿No os ha vuelto a atrapar la llamada del aventurero? Por Dallillia, espero que ninguno de los niños os siga cuando os marchéis.~
+@10033 = ~[HALFLING FEMALE OF GULLYKIN 2(MABLEDALE) POST LOW CHAR.] Me sorprende volver a veros. ¿No os ha vuelto a atrapar la llamada del aventurero? Por Dallillia, espero que ninguno de los niños os siga cuando os marchéis.~
 
 //#13839
 @10034 = ~Varón mediano~
 
 //#4926
-@10035 = ~Han pasado cosas extrañas últimamente.~ [%tutu_var%HALFL03]
-@10036 = ~~ [%tutu_var%HALFL05]
-@10037 = ~~ [%tutu_var%HALFL06]
+@10035 = ~[HALFLING 3] Han pasado cosas extrañas últimamente.~ [HALFL03]
+@10036 = ~[HALFLING 5]~ [HALFL05]
+@10037 = ~[HALFLING 6]~ [HALFL06]
 
 //#8954
 @10038 = ~No quiero ser maleducado, pero preferiría que os fuerais de inmediato.~
 
 //#13347
-@10039 = ~Hola de nuevo. Es un placer, como antes.~
+@10039 = ~[HALFLING MALE OF GULLYKIN 2 (BUNSEN) POST HIGH CHAR.] Hola de nuevo. Es un placer, como antes.~
 
 //#13348
-@10040 = ~Veo que habéis regresado. Confío en que no os quedaréis más tiempo que la última vez.~
+@10040 = ~[HALFLING MALE OF GULLYKIN 2 (BUNSEN) POST LOW CHAR.] Veo que habéis regresado. Confío en que no os quedaréis más tiempo que la última vez.~
 
 //#12310
 @10041 = ~Elminster~
@@ -102,66 +103,66 @@
 @10042 = ~Plebeyo~
 
 //#11093
-@10043 = ~Hola, colega.~ [%tutu_var%GENMG13]
-@10044 = ~~ [%tutu_var%VILLM05]
-@10045 = ~~ [%tutu_var%MTOWN06]
+@10043 = ~[MALE GREETING 13] Hola, colega.~ [GENMG13]
+@10044 = ~[VILLAGER, MALE 05] ~ [VILLM05]
+@10045 = ~[MALE TOWNSFOLK 6]~ [MTOWN06]
 
 //#8950
 @10046 = ~¡No diré ni una palabra después de lo que hicisteis!~
 
 //#20602
-@10047 = ~Hola.~ [%tutu_var%GENMG15]
+@10047 = ~Hola.~ [GENMG15]
 
 //#9359
-@10048 = ~Ogrillón~
+@10048 = ~Ogrillon~
 
 //#5163
-@10049 = ~¡Ha llegado la hora de hacer una matanza!~ [%tutu_var%OGRIL03]
+@10049 = ~[OGRILLON 03] ¡Ha llegado la hora de hacer una matanza!~ [OGRIL03]
 
 //#5164
-@10050 = ~¡Morid, mequetrefes!~ [%tutu_var%OGRIL04]
-@10051 = ~~ [%tutu_var%OGRIL05] //non-existent
-@10052 = ~~ [%tutu_var%OGRIL06] //non-existent
-@10053 = ~~ [%tutu_var%OGRIL08]
-@10054 = ~~ [%tutu_var%OGRIL09]
+@10050 = ~[OGRILLON 04] ¡Morid, mequetrefes!~ [OGRIL04]
+@10051 = ~[OGRILLON 05] ~ //non-existent
+@10052 = ~[OGRILLON 06] ~ //non-existent
+@10053 = ~[OGRILLON 08] ~ [OGRIL08]
+@10054 = ~[OGRILLON 09] ~ [OGRIL09]
 
 //#5161
-@10055 = ~¡Si te metes conmigo, te metes conmigo mismo!~ [%tutu_var%OGRIL01]
+@10055 = ~¡Si te metes conmigo, te metes conmigo mismo!~ [OGRIL01]
 
 //#5162
-@10056 = ~Todos los chicos se meten conmigo porque solo mido 2 metros...~ [%tutu_var%OGRIL02]
+@10056 = ~[OGRILLON 02] Todos los chicos se meten conmigo porque solo mido 2 metros...~ [OGRIL02]
 
 //#9356
 @10057 = ~Semiorco~
 
 //#5158
-@10058 = ~¡Yo enfadado!~ [%tutu_var%HOGRE03]
+@10058 = ~[HALF OGRE 03] ¡Yo enfadado!~ [HOGRE03]
 
 //#5159
-@10059 = ~¡Yo matar a hombres que me hacen enfadar!~ [%tutu_var%HOGRE04]
-@10060 = ~~ [%tutu_var%HOGRE08]
-@10061 = ~~ [%tutu_var%HOGRE09]
+@10059 = ~[HALF OGRE 04] ¡Yo matar a hombres que me hacen enfadar!~ [HOGRE04]
+@10060 = ~[HALF OGRE 08] ~ [HOGRE08]
+@10061 = ~[HALF OGRE 09] ~ [HOGRE09]
 
 //#5155
-@10062 = ~Yo tener hambre.~ [%tutu_var%HOGRE01]
+@10062 = ~[HALF OGRE 01] Yo tener hambre.~ [HOGRE01]
 
 //#5156
-@10063 = ~*buuuurp* Uha ha ha mm! Heh, -pedo-~ [%tutu_var%HOGRE02]
+@10063 = ~[HALF OGRE 02] *buuuurp* Uha ha ha mm! Heh, -pedo-~ [HOGRE02]
 
 //#9412
 @10064 = ~Lector~
 
 //#8753
 @10065 = ~Tasloi~
-@10066 = ~~ [%tutu_var%TASLO03]
-@10067 = ~~ [%tutu_var%TASLO04]
-@10068 = ~~ [%tutu_var%TASLO05]
-@10069 = ~~ [%tutu_var%TASLO06]
-@10070 = ~~ [%tutu_var%TASLO08]
-@10071 = ~~ [%tutu_var%TASLO09]
-@10072 = ~~ [%tutu_var%TASLO00] //non-existent
-@10073 = ~~ [%tutu_var%TASLO01]
-@10074 = ~~ [%tutu_var%TASLO02]
+@10066 = ~[TASLOI 03] ~ [TASLO03]
+@10067 = ~[TASLOI 04] ~ [TASLO04]
+@10068 = ~[TASLOI 05] ~ [TASLO05]
+@10069 = ~[TASLOI 06] ~ [TASLO06]
+@10070 = ~[TASLOI 08] ~ [TASLO08]
+@10071 = ~[TASLOI 09] ~ [TASLO09]
+@10072 = ~[TASLOI 00] ~ [TASLO01]
+@10073 = ~[TASLOI 01] ~ [TASLO01]
+@10074 = ~[TASLOI 02] ~ [TASLO02]
 
 //#9495
 @10075 = ~Viajero~
@@ -170,119 +171,119 @@
 @10076 = ~Sirvienta~
 
 //#4786
-@10077 = ~¿La cuenta, si no os importa? El Sr. Volo estuvo aquí hace poco.~ [%tutu_var%WENCH01]
-@10078 = ~~ [%tutu_var%WENCH03]
-@10079 = ~~ [%tutu_var%WENCH04]
+@10077 = ~[SERVING WENCH TO VOLO 1] ¿La cuenta, si no os importa? El Sr. Volo estuvo aquí hace poco.~ [WENCH01]
+@10078 = ~[SERVING WENCH TO VOLO 3]~ [WENCH03]
+@10079 = ~[SERVING WENCH TO VOLO 4]~ [WENCH04]
 
 //#4787
-@10080 = ~Por supuesto, en realidad soy escritor. Solo sirvo mesas para pagar las facturas.~ [%tutu_var%WENCH02]
+@10080 = ~[SERVING WENCH TO VOLO 2] Por supuesto, en realidad soy escritor. Solo sirvo mesas para pagar las facturas.~ [WENCH02]
 
 //#12761
 @10081 = ~Wilton~
 
 //#4821
-@10082 = ~Deteneos un segundo, jovenzuelos, porque he oído lo que habéis hecho por el viejo Brun.~ [%tutu_var%WILTN01]
-@10083 = ~~ [%tutu_var%WILTN03]
-@10084 = ~~ [%tutu_var%WILTN04]
+@10082 = ~[FARMER WILTON 1] Deteneos un segundo, jovenzuelos, porque he oído lo que habéis hecho por el viejo Brun.~ [WILTN01]
+@10083 = ~[FARMER WILTON 3]~ [WILTN03]
+@10084 = ~[FARMER WILTON 4]~ [WILTN04]
 
 //#4822
-@10085 = ~Es tan difícil encontrar gente decente hoy día...~ [%tutu_var%WILTN02]
+@10085 = ~[FARMER WILTON 2] Es tan difícil encontrar gente decente hoy día...~ [WILTN02]
 
 //#9036
 @10086 = ~Dejadme en paz. No tengo nada para vosotros.~
 
 //#13679
-@10087 = ~Lo siento, jovenzuelo, pero tengo mucho trabajo en la granja.~
+@10087 = ~[WILTON POST] Lo siento, jovenzuelo, pero tengo mucho trabajo en la granja.~
 
 //#23935
-@10088 = ~Oooh, una cara nueva en la ciudad, ¿eh?~ [%tutu_var%TSCFT01]
+@10088 = ~[ULGOTH, FEMALES 01] Oooh, una cara nueva en la ciudad, ¿eh?~ [TSCFT01]
 
 //#13649
-@10089 = ~¡No sacaréis nada de mí!~
+@10089 = ~[TOWNSFOLK, FEMALE/BEREGOST HOSTILE] ¡No sacaréis nada de mí!~
 
 //#23936
-@10090 = ~¿Queréis hablar? Adelante, entonces.~ [%tutu_var%TSCFT02]
-@10091 = ~~ [%tutu_var%WOMCO03]
-@10092 = ~~ [%tutu_var%WOMCO04]
+@10090 = ~[ULGOTH, FEMALES 02] ¿Queréis hablar? Adelante, entonces.~ [TSCFT02]
+@10091 = ~[COMMON WOMAN 3]~ [WOMCO03]
+@10092 = ~[COMMON WOMAN 4]~ [WOMCO04]
 
 //#21974
 @10093 = ~Meym~
 
 //#11081
-@10094 = ~¿Necesitáis algo, forastero?~ [%tutu_var%GENMG04]
-@10095 = ~~ [%tutu_var%MINER05]
-@10096 = ~~ [%tutu_var%MINER06]
+@10094 = ~[MALE GREETING 4] ¿Necesitáis algo, forastero?~ [GENMG04]
+@10095 = ~[MINERS 5]~ [MINER05]
+@10096 = ~[MINERS 6]~ [MINER06]
 
 //#23929
-@10097 = ~Vaya, hola, jovenzuelo.~ [%tutu_var%TSCMT02]
-@10098 = ~~ [%tutu_var%VILLM06]
+@10097 = ~[ULGOTH, MALES 02] Vaya, hola, jovenzuelo.~ [TSCMT02]
+@10098 = ~[VILLAGER, MALE 06] ~ [VILLM06]
 
 //#23930
-@10099 = ~No parece que seáis de por aquí.~ [%tutu_var%TSCMT03]
+@10099 = ~[ULGOTH, MALES 03] No parece que seáis de por aquí.~ [TSCMT03]
 
 //#15975
 @10100 = ~Ogro~
 
 //#5148
-@10101 = ~¡Yo trituraros, os aplastaré hasta morir!~ [%tutu_var%OGREE03]
+@10101 = ~[OGRE 03] ¡Yo trituraros, os aplastaré hasta morir!~ [OGREE03]
 
 //#5149
-@10102 = ~¡Yo romperos la cara!~ [%tutu_var%OGREE04]
-@10103 = ~~ [%tutu_var%OGREE08]
-@10104 = ~~ [%tutu_var%OGREE09]
+@10102 = ~[OGRE 04] ¡Yo romperos la cara!~ [OGREE04]
+@10103 = ~[OGRE 08] ~ [OGREE08]
+@10104 = ~[OGRE 09] ~ [OGREE09]
 
 //#5147
-@10105 = ~¡Os aplastaré!~ [%tutu_var%OGREE01]
-@10106 = ~~ [%tutu_var%OGREE02]
+@10105 = ~[OGRE 01] ¡Os aplastaré!~ [OGREE01]
+@10106 = ~[OGRE 02] ~ [OGREE02]
 
 //#10006
 @10107 = ~Mago Encapuchado~
 
 //#11079
-@10108 = ~¿Hmm?~ [%tutu_var%GENMG03]
-@10109 = ~~ [%tutu_var%RAMAZ03]
-@10110 = ~~ [%tutu_var%RAMAZ04]
+@10108 = ~[MALE GREETING 3] ¿Hmm?~ [GENMG03]
+@10109 = ~[RAMAZITH 3]~ [RAMAZ03]
+@10110 = ~[RAMAZITH 4]~ [RAMAZ04]
 
 //#6315
 @10111 = ~Necrófago~
-@10112 = ~~ [%tutu_var%GHOUL03]
-@10113 = ~~ [%tutu_var%GHOUL04]
-@10114 = ~~ [%tutu_var%GHOUL05]
-@10115 = ~~ [%tutu_var%GHOUL06]
-@10116 = ~~ [%tutu_var%GHOUL08]
-@10117 = ~~ [%tutu_var%GHOUL09]
-@10118 = ~~ [%tutu_var%GHOUL01]
+@10112 = ~[GHOUL 03]~ [GHOUL03]
+@10113 = ~[GHOUL 04]~ [GHOUL04]
+@10114 = ~[GHOUL 05]~ [GHOUL05]
+@10115 = ~[GHOUL 06]~ [GHOUL06]
+@10116 = ~[GHOUL 08]~ [GHOUL08]
+@10117 = ~[GHOUL 09]~ [GHOUL09]
+@10118 = ~[GHOUL 01]~ [GHOUL01]
 
 //#5142
-@10119 = ~Mmmmm, me gusta la carne, heh heh.~ [%tutu_var%GHOUL02]
+@10119 = ~[GHOUL 02] Mmmmm, me gusta la carne, heh heh.~ [GHOUL02]
 
 //#13712
 @10120 = ~Pájaro~
-@10121 = ~~ [%tutu_scripta%MB_E05D]
-@10122 = ~~ [%tutu_scripta%MB_E05E]
-@10123 = ~~ [%tutu_scripta%MB_E05F]
-@10124 = ~~ [%tutu_scripta%MB_E05G]
-@10125 = ~~ [%tutu_scripta%MB_E05H]
+@10121 = ~[Bird Song1]~ [AMB_E05D]
+@10122 = ~[Bird Song2]~ [AMB_E05E]
+@10123 = ~[Bird Song3]~ [AMB_E05F]
+@10124 = ~[Bird Song4]~ [AMB_E05G]
+@10125 = ~[Bird Song5]~ [AMB_E05H]
 
 //#13841
 @10126 = ~Ejecutor mediano~
 
 //#4925
-@10127 = ~Son un poco raros como para vagar por aquí.~ [%tutu_var%HALFL02]
-@10128 = ~~ [%tutu_var%FTOWN06]
+@10127 = ~[HALFLING 2] Son un poco raros como para vagar por aquí.~ [HALFL02]
+@10128 = ~[FEMALE TOWNSFOLK 6]~ [FTOWN06]
 
 //#12245
 @10129 = ~Entar Escudo de Plata~
 
 //#4705
-@10130 = ~¿Qué hacen estos intrusos en mi hogar?~ [%tutu_var%ENTAR01]
+@10130 = ~[ENTAR SILVERSHIELD 1] ¿Qué hacen estos intrusos en mi hogar?~ [ENTAR01]
 
 //#12421
-@10131 = ~¡Mon Dieu!~ [%tutu_var%ENTAR03]
-@10132 = ~~ [%tutu_var%ENTAR04]
+@10131 = ~[ENTAR SILVERSHIELD 3] ¡Mon Dieu!~ [ENTAR03]
+@10132 = ~[ENTAR SILVERSHIELD 4]~ [ENTAR04]
 
 //#4706
-@10133 = ~Espero que no le haya pasado nada a mi dulce hija, Skie.~ [%tutu_var%ENTAR02]
+@10133 = ~[ENTAR SILVERSHIELD 2] Espero que no le haya pasado nada a mi dulce hija, Skie.~ [ENTAR02]
 
 //#8983
 @10134 = ~¡Mis puertas ya no están abiertas para gente como vosotros!~
@@ -291,21 +292,21 @@
 @10135 = ~Herschel~
 
 //#4874
-@10136 = ~No hay tiempo para charlar.~ [%tutu_var%NOBLE02]
-@10137 = ~~ [%tutu_var%NOBLE05]
-@10138 = ~~ [%tutu_var%NOBLE06]
+@10136 = ~[NOBLEMAN 2] No hay tiempo para charlar.~ [NOBLE02]
+@10137 = ~[NOBLEMAN 5]~ [NOBLE05]
+@10138 = ~[NOBLEMAN 6]~ [NOBLE06]
 
 //#4875
-@10139 = ~Fuera de aquí, mendigo.~ [%tutu_var%NOBLE03]
+@10139 = ~[NOBLEMAN 3] Fuera de aquí, mendigo.~ [NOBLE03]
 
 //#4874
-@10140 = ~No hay tiempo para charlar.~ [%tutu_var%NOBLE02]
+@10140 = ~[NOBLEMAN 2] No hay tiempo para charlar.~ [NOBLE02]
 
 //#4873
-@10141 = ~Un hombre no debería hablar con sus superiores a menos que se le hable primero.~ [%tutu_var%NOBLE01]
+@10141 = ~[NOBLEMAN 1] Un hombre no debería hablar con sus superiores a menos que se le hable primero.~ [NOBLE01]
 
 //#4876
-@10142 = ~¡No me toques!  Podría contagiarme algo.~ [%tutu_var%NOBLE04]
+@10142 = ~[NOBLEMAN 4] ¡No me toques!  Podría contagiarme algo.~ [NOBLE04]
 
 //#8909
 @10143 = ~¡No te acerques a mí! ¡Te daré una paliza, lo juro!~
@@ -314,21 +315,21 @@
 @10144 = ~Mercader~
 
 //#4959
-@10145 = ~Tengo los mejores precios a este lado de Cormyr.~ [%tutu_var%MERCH01]
-@10146 = ~~ [%tutu_var%MERCH05]
-@10147 = ~~ [%tutu_var%MERCH06]
+@10145 = ~[MERCHANTS 1] Tengo los mejores precios a este lado de Cormyr.~ [MERCH01]
+@10146 = ~[MERCHANTS 5]~ [MERCH05]
+@10147 = ~[MERCHANTS 6]~ [MERCH06]
 
 //#4959
-@10148 = ~Tengo los mejores precios a este lado de Cormyr.~ [%tutu_var%MERCH01]
+@10148 = ~[MERCHANTS 1] Tengo los mejores precios a este lado de Cormyr.~ [MERCH01]
 
 //#4960
-@10149 = ~Toda mi mercancía es auténtica, de verdad.~ [%tutu_var%MERCH02]
+@10149 = ~[MERCHANTS 2] Toda mi mercancía es auténtica, de verdad.~ [MERCH02]
 
 //#4961
-@10150 = ~Esos malditos bandidos han sido realmente malos para el negocio.~ [%tutu_var%MERCH03]
+@10150 = ~[MERCHANTS 3] Esos malditos bandidos han sido realmente malos para el negocio.~ [MERCH03]
 
 //#4962
-@10151 = ~¡Me encanta el dinero, sí que me encanta!~ [%tutu_var%MERCH04]
+@10151 = ~[MERCHANTS 4] ¡Me encanta el dinero, sí que me encanta!~ [MERCH04]
 
 //#8930
 @10152 = ~¡No me fiaría de vosotros ni aunque me fuera la vida en ello!~
@@ -337,42 +338,42 @@
 @10153 = ~Sirvienta~
 
 //#4866
-@10154 = ~Vaya, sí que sois hombres GRANDES.~ [%tutu_var%SWENC02]
-@10155 = ~~ [%tutu_var%SWENC05]
-@10156 = ~~ [%tutu_var%SWENC06]
+@10154 = ~[SERVING WENCH 2] Vaya, sí que sois hombres GRANDES.~ [SWENC02]
+@10155 = ~[SERVING WENCH 5]~ [SWENC05]
+@10156 = ~[SERVING WENCH 6]~ [SWENC06]
 
 //#4865
-@10157 = ~Siempre es bueno dejar una propina.~ [%tutu_var%SWENC01]
+@10157 = ~[SERVING WENCH 1] Siempre es bueno dejar una propina.~ [SWENC01]
 
 //#9086
 @10158 = ~¡Fuera de aquí, idiota petulante!~
 
 //#13607
-@10159 = ~¡Si me volvéis a meter mano, os juro que la perderéis! Pedid en la barra.~
-@10160 = ~~ [%tutu_var%SWENC04]
+@10159 = ~[SERVING WENCH, ELFSONG TAVERN POST] ¡Si me volvéis a meter mano, os juro que la perderéis! Pedid en la barra.~
+@10160 = ~[SERVING WENCH 4]~ [SWENC04]
 
 //#12894
 @10161 = ~Camarero~
 
 //#4944
-@10162 = ~¿Queréis un poco de whisky?~ [%tutu_var%BARTN01]
-@10163 = ~~ [%tutu_var%BARTN05]
-@10164 = ~~ [%tutu_var%BARTN06]
+@10162 = ~[BARTENDER 1] ¿Queréis un poco de whisky?~ [BARTN01]
+@10163 = ~[BARTENDER 5]~ [BARTN05]
+@10164 = ~[BARTENDER 6]~ [BARTN06]
 
 //#4945
-@10165 = ~Tengo cerveza barata para vosotros.~ [%tutu_var%BARTN02]
+@10165 = ~[BARTENDER 2] Tengo cerveza barata para vosotros.~ [BARTN02]
 
 //#4946
-@10166 = ~Tengo que dejar de darle a mi propia cerveza.~ [%tutu_var%BARTN03]
+@10166 = ~[BARTENDER 3] Tengo que dejar de darle a mi propia cerveza.~ [BARTN03]
 
 //#4947
-@10167 = ~Tengo unas camareras muy guapas, ¿verdad? Eh, je, je, je...~ [%tutu_var%BARTN04]
+@10167 = ~[BARTENDER 4] Tengo unas camareras muy guapas, ¿verdad? Eh, je, je, je...~ [BARTN04]
 
 //#4862
-@10168 = ~*sollozo*~ [%tutu_var%FCHIL02]
-@10169 = ~~ [%tutu_scripta%MB_M34A]
+@10168 = ~[FEMALE CHILDREN 2] *sollozo*~ [FCHIL02]
+@10169 = ~[FEMALE CHILDREN LAUGHING]~ [AMB_M34A]
 
-//#22786 - change Blunt Weapons to Club
+//#22786
 @10170 = ~La Raíz del Problema +1
 Se dice que este clava encantada existe desde la época de la caída de Netheril y el nacimiento del gran Desierto de Anauroch. Si bien el precio para la civilización fue alto, las verdaderas víctimas de esta era fueron las criaturas de la naturaleza, condenadas a observar cómo sus hogares se descomponían y morían. A medida que los hábitats desaparecían, los que quedaban eran invadidos por hordas de criaturas desplazadas, las más impacientes de las cuales marchaban sobre tierras vírgenes tomando lo que deseaban. Se dice que esta arma en particular provino del árbol de una dríada, un regalo final para la causa de la naturaleza de un espíritu del bosque que no pudo contener a los invasores de su tierra. El suyo fue un dolor agridulce, ya que su madera podría no haber sufrido tanto si no hubiera sido tan fuerte y exuberante. Eruditos con poco respeto han otorgado desde entonces el nombre irónico al objeto, aunque el humor no es apreciado entre los seguidores más devotos de la naturaleza.
 
@@ -413,29 +414,29 @@ No permitido a:
 ~Siendo aventureros y todo eso, lo único que probablemente os interese oír es sobre las ruinas del puente de Vinoardiente. Se supone que hay un tesoro allí, pero una tribu de kobolds lo protege. Eh, amiga, nos harías un gran favor si acabaras con esos kobolds. Han estado causando muchos problemas últimamente.~
 
 //#4924
-@10178 = ~Se avecinan tiempos difíciles, me temo.~ [%tutu_var%HALFL01]
+@10178 = ~[HALFLING 1] Se avecinan tiempos difíciles, me temo.~ [HALFL01]
 
 /* Store fixes */
 //#9408
 @10179 = ~Tendero~
 
 //#4881
-@10180 = ~Bienvenidos a mi humilde establecimiento.~ [%tutu_var%STORE01]
+@10180 = ~[STOREOWNER 1] Bienvenidos a mi humilde establecimiento.~ [STORE01]
 
 //#12558
-@10181 = ~~ [%tutu_var%STORE05]
+@10181 = ~[STOREOWNER 5]~ [STORE05]
 
 //#12559
-@10182 = ~~ [%tutu_var%STORE06]
+@10182 = ~[STOREOWNER 6]~ [STORE06]
 
 //#4882
-@10183 = ~El negocio ha ido mal con la escasez de hierro y todo eso.~ [%tutu_var%STORE02]
+@10183 = ~[STOREOWNER 2] El negocio ha ido mal con la escasez de hierro y todo eso.~ [STORE02]
 
 //#4883
-@10184 = ~El cliente siempre tiene la razón.~ [%tutu_var%STORE03]
+@10184 = ~[STOREOWNER 3] El cliente siempre tiene la razón.~ [STORE03]
 
 //#4884
-@10185 = ~Mis precios son los mejores al sur de Aguasprofundas.~ [%tutu_var%STORE04]
+@10185 = ~[STOREOWNER 4] Mis precios son los mejores al sur de Aguasprofundas.~ [STORE04]
 
 
 

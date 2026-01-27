@@ -1,62 +1,69 @@
 //Use UTF8 encoding
-@90000 = ~El componente de BG1 NPC Project "BG1 NPC Project: Parte II (Busquedas e interacciones)" causa un conflicto con este componente.~
-@90001 = ~El componente de BG1 NPC Project "BG1 NPC Project: Instalación de nucleo" causa un conflicto con este componente.~
-@90002 = ~El componente de BG1 NPC Project "BG1 NPC Project: Parte I (conversaciones)" causa un conflicto con este componente.~
-@90003 = ~Northern Tales of the Sword Coast causa un conflicto con este componente.~
-@90004 = ~Jarl's Adventure Pack causa un conflicto con este componente.~
+@90000 = ~El componente de The BG1 NPC Project "The BG1 NPC Project: Phase II (Quests and Interjections)" entra en conflicto con este componente.~
+@90001 = ~El componente de The BG1 NPC Project "The BG1 NPC Project: Core Install" entra en conflicto con este componente.~
+@90002 = ~El componente de The BG1 NPC Project "The BG1 NPC Project: Phase I (Banters)" entra en conflicto con este componente.~
+@90003 = ~Northern Tales of the Sword Coast entra en conflicto con este componente.~
+@90004 = ~Jarl's Adventure Pack entra en conflicto con este componente.~
 
-@90010 = ~Instalación Tutu detectada.~
-@90011 = ~Instalación BGT detectada.~
-@90012 = ~Instalación BG detectada.~
-@90013 = ~Por favor, instalar sobre BG, BGT, Tutu o BGEE.~
-@90014 = ~Por favor, instalar sobre BGT o Tutu.~
+@90010 = ~Instalación de Tutu detectada.~
+@90011 = ~Instalación de BGT detectada.~
+@90012 = ~Instalación de BG detectada.~
+@90013 = ~Por favor, instala en BG, BGT, Tutu o BGEE.~
+@90014 = ~Por favor, instala en BGT o Tutu.~
 
-@90015 = ~La funcionalidad de este componente ya está incluida o reemplazada por uno de los mods que ya tienes instalados.~
+@90015 = ~La funcionalidad de este componente ya está incluida o ha sido reemplazada por uno de tus mods instalados.~
 @90016 = ~La funcionalidad de este componente ya está incluida en BGEE.~
-@90017 = ~Instalación BGEE detectada.~
-@90018 = ~Se requiere Fusión de DLC antes de que se puedan instalar mods en este juego. Consulte el archivo léame para obtener más información y un enlace para descargar DLC Merger.~
+@90017 = ~Instalación de BGEE detectada.~
+@90018 = ~Se requiere DLC Merger antes de que se puedan instalar mods en este juego. Consulta el archivo readme para más información y un enlace de descarga de DLC Merger.~
 @90019 = ~La funcionalidad de este componente ya está incluida en BGEE + BGT.~
 
-@0   = ~Restauración del nivel 2 de la Isla de Hielo~
-@1   = ~Este componente requiere la expansion Tales of the Sword Coast~
+@0    = ~Restauración del segundo nivel de la Isla de Hielo~
+@1    = ~Se requiere la expansión Tales of the Sword Coast para este componente.~
+@2    = ~El vial misterioso~
+@3    = ~Encuentro adicional con Elminster~
+@4    = ~Angelo se fija en Shar-teel~
+@5    = ~Misión finalizable de la caravana de Kagain~
 
-@2   = ~El Recipiente Misterioso~
-@3   = ~Encuentro de Elminster Adicional~
-@4   = ~Angelo reconoce Shar-teel~
-@5   = ~Busqueda de la Caravana de Kagain con Final~
-@7   = ~Coran y los Wyverns~
-@8   = ~Kivan y Tazok~
-@9   = ~Branwen y Tranzig~
-@10  = ~Safana Coquetea~
-@12  = ~Recompensa de Albert y Rufie Apropiada~
-@13  = ~Entar Escudo de Plata esta en su Casa~
-@14  = ~Scar y la Hija de Sashenstar~
-@17  = ~Quoningar, el Clerigo~
-@18  = ~Shilo Chen y los Ogro magos~
-@21  = ~Edie, el Estudiante a Mercader de la Liga~
-@22  = ~Refuerzos Mercenarios del Puño Llameante~
-@23  = ~Correcciones a Criaturas~
-@24  = ~Restauracion a Criaturas~
-@26  = ~Nombres de Criaturas Restaurados~
-@58  = ~Restauraciones Menores de Dialogo~
-@59  = ~Restauraciones de Audio (ingles)~
-@89  = ~Arreglos y Restauraciones a Tiendas y Tabernas~
-@94  = ~Correcciones y Restauraciones de Objetos~
-@100 = ~Correcciones y Restauraciones de Areas~
-@101 = ~Cadaveres Permanentes~
-@102 = ~Hechizado Elfico e Inmunidad Racial al Sueño~
-@103 = ~Correcciones a la Lista de Musica de la Saga Original~
-@104 = ~Correcciones del Diario de Sarevok~
+@7    = ~Coran y los dracos~
+@8    = ~Kivan y Tazok~
+@9    = ~Branwen y Tranzig~
+@10   = ~Safana, la coqueta~
+
+@12   = ~Recompensa apropiada de Albert y Rufie~
+@13   = ~Situar a Entar Escudo de Plata en su hogar~
+@14   = ~Scar y la hija de los Sashenstar~
+
+@17   = ~Quoningar, el clérigo~
+@18   = ~Shilo Chen y los ogros magos~
+
+@21   = ~Edie, la aspirante a la Liga de Mercaderes~
+@22   = ~Refuerzos de mercenarios del Puño Llameante~
+@23   = ~Correcciones de criaturas~
+@24   = ~Restauraciones de criaturas~
+
+@26   = ~Restauraciones de nombres de criaturas~
+
+@58   = ~Restauraciones menores de diálogos~
+@59   = ~Restauraciones de audio~
+
+@89   = ~Correcciones y restauraciones de tiendas, tabernas y posadas~
+
+@94   = ~Correcciones y restauraciones de objetos~
+
+@100  = ~Correcciones y restauraciones de áreas~
+@101  = ~Cadáveres permanentes~
+@102  = ~Resistencia racial élfica al encantamiento y al sueño~
+@103  = ~Correcciones de la lista de reproducción de música de la saga original~
+@104  = ~Correcciones del diario de Sarevok~
 
 /* new v13.1 */
-// tp2 strings
-@116 = ~Mejora a Prism y las esmeraldas~
-@219 = ~Duque Eltan en el Edificio del capitán del puerto~
+@116  = ~Ajuste de Prism y las esmeraldas~
+@219  = ~El Duque Eltan en el edificio del capitán del puerto~
 
 /* new v14 */
-@4000 = ~Encuentro de Nim Alasplegadas~
+@4000 = ~Encuentro con Nim Alasplegadas~
 @4100 = ~Película de la Taberna Canción Élfica restaurada~
-@4101 = ~Este componente no es compatible con BGEE. Se incluye una versión compatible con BGEE de esta película con el mod BG:EE Classic Movies.~
-@4200 = ~Svlast, el encuentro con el paladín caído~
+@4101 = ~Este componente no es compatible con BGEE. Se incluye una versión compatible de esta película en el mod "BG:EE Classic Movies".~
+@4200 = ~Encuentro con Svlast, el paladín caído~
 @4300 = ~Mal-Kalen, el fantasma de Ulcaster~
-@4400 = ~Restauraciones de diálogo del Capítulo 6~
+@4400 = ~Restauraciones de diálogos del Capítulo 6~

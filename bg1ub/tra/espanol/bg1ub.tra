@@ -3,16 +3,16 @@
 
 @11   = ~Flirteo~
 
-@15   = ~Cuerpo de Mujer noble~
+@15   = ~Cuerpo de mujer noble~
 
 @16   = ~Este es el cadáver de una mujer noble.~
 
-@19  = ~Guantes del Ladrón Fong~
-@20  = ~Hace unos años, Fong Moo un famoso ladrón conocido tanto en Puerta de Baldur como en Athkatla, fue encontrado muerto en el camino desde la Puerta a Beregost. Parece que robó un artefacto a un gran mago e intentó escapar sin mucho éxito. Sus posesiones recayeron en un sobrino con la misma vocación que su tío, y se hizo muy bueno robando carteras. Si estos guantes eran mágicos antes de caer en manos de Fong o si la esencia de su maestro ha quedado impregnada en ellos, es algo que no se sabe. 
+@19  = ~Guantes de robo de Fong~
+@20  = ~Hace algunos años, Fong Moo, un famoso ratero conocido tanto en Puerta de Baldur como en Athkatla, fue encontrado muerto entre Puerta y Beregost. Al parecer, robó un artefacto a un poderoso hechicero e intentó escapar, sin mucho éxito. Sus posesiones fueron enviadas a su sobrino, que tomó el mismo camino que su tío y se convirtió en un gran ladrón. No se sabe si estos guantes eran mágicos antes de caer en las manos de Fong o si están de alguna manera imbuidos con su esencia.
 
 CARACTERÍSTICAS:
 
-Robar: bonificación +20%
+Aptitudes poseídas: +20% a hurtar
 
 Peso: 2 lbs~
 
@@ -52,10 +52,10 @@ Peso: 2 lbs~
 @57  = ~Kaishas Gan~
 
 //@60-@88 moved to sound_tmp.tra
-@90  = ~Artículos diversos y de Curación de Alvanhendar~
+@90  = ~Sanación y otros artículos de Alvanhendar~
 @91  = ~Tienda de Black Lily~
 @92  = ~Taberna~
-@93  = ~El Escudo del Vigilante~
+@93  = ~El Escudo Vigilante~
 
 @95  = ~Anillo de Piel Robliza~
 @96  = ~Hacha de Bala - Asesino de Magos:
@@ -63,61 +63,131 @@ Bala era un príncipe muy temperamental de un clan de enanos gully que fue escla
 
 CARACTERÍSTICAS:
 
-Aptitud especial: 
-  Magia equívoca afecta a la víctima con cada golpe recibido
-  (Magia equívoca: Cualquier criatura lanzadora de hechizos es afectada por esta propiedad. Cuando la criatura intenta lanzar un hechizo, tiene un 80% de probabilidades de fallo. Las criaturas pueden salvar contra hechizos con penalización de -2.)
+Habilidades de combate:
+- Magia equívoca: Si el golpe tiene éxito, inflige un efecto de estado que provoca un 80 % de probabilidades de fallo en el lanzamiento de conjuros, a menos que la víctima supere su tirada de salvación contra hechizos con una penalización de -2.
+
+Habilidades especiales:
+- Puede lanzar un conjuro de Disipar magia una vez al día.
 
 Daño: 1D8
 Tipo de daño: Cortante
 Peso: 6 lbs
 Factor de Velocidad: 7
 Talento marcial: Hacha
-Tipo: A una mano
+Tipo de arma: A una mano
 
 No permitido a:
  Clérigo
  Druida
  Ladrón
  Mago~
-@97  = ~La cabeza cortada de un dragón es una visión tan terrible como tranquilizadora. Por muy horripilantes que sean sus fauces afiladas y llameantes sus ojos, existe el consuelo de saber que puede ser vencido por simples y humildes mortales.
-
+@97  = ~La cabeza cortada de un draco es una imagen aterradora y tranquilizadora a partes iguales. Por muy espantosos que sean sus colmillos y sus ojos brillantes, resulta reconfortante saber que pueden ser vencidos por simples y humildes mortales.
 CARACTERÍSTICAS:
 
 Peso: 30 lbs~
-@98  = ~El pelaje blanco y puro del lobo de invierno es suave y lujoso. Con frecuencia se cose en vestimentas tan diversas como las toscas camisas de los bárbaros de Uthgardt del norte y las estolas invernales de moda que llevan todas las damas nobles en la región de la Costa de la Espada.
+@98  = ~El pelaje blanco puro del lobo invernal es suave y lujoso. A menudo se utiliza para confeccionar prendas tan diversas como los robustos chalecos de los bárbaros del norte de Uthgardt y las delicadas y elegantes estolas invernales que lucen las mujeres de la nobleza en toda la región de la Costa de la Espada.
 
 CARACTERÍSTICAS:
 
 Peso: 10 lbs~
-@99  = ~El Ankheg es una criatura con forma de insecto de unos 3 ó 6 metros de largo que se suele encontrar en los bosques o tierras de agricultura.  Están recubiertos de placas o caparazones hechos de una sustancia llamada quitina que es sumamente dura y muy ligera. El tamaño, peso y la fuerza de los caparazones los convierten en un bien muy preciado en muchas situaciones, como por ejemplo en la creación de armaduras.
-
+@99  = ~El Ankheg es una criatura parecida a un insecto excavador de entre 3 y 6 metros de largo, que se encuentra principalmente en bosques o tierras agrícolas fértiles. Están cubiertos de placas o caparazones hechos de una sustancia llamada quitina, que es extremadamente dura y muy ligera. El tamaño, el peso y la resistencia de los caparazones los hacen muy codiciados en muchas situaciones, incluida la creación de armaduras.
 CARACTERÍSTICAS:
 
 Peso: 100 lbs~
 
 @105 = ~Son liderados por Sarevok Anchev.~
-@106 = ~Un hombre llamado Sarevok Anchev es responsable de la incriminación.~
+@106 = ~Un hombre llamado Sarevok Anchev es el responsable de la trampa.~
 @107 = ~El vidente nos dijo que el líder del Trono de Hierro era Sarevok Anchev.~
-@108 = ~El vidente nos dijo que Sarevok Anchev fue quien nos incriminó por las muertes en Candelero.~
-@109 = ~[Nota para Davaeorn 1]Davaeorn,
-He recibido vuestro pedido para más esclavos. Os serán enviados lo antes posible. Las cosas van bien en Puerta de Baldur. Hemos comprado una de las mansiones nobles del oeste como base de operaciones. Es un edificio antiguo, probablemente construido antes de la erección del muro de piedra. Su construcción hace que sea casi impenetrable para aquellos que quieran robar. Recordad preguntarle a Yeslick si le gusta su nueva habitación.
+@108 = ~El vidente nos dijo que Sarevok Anchev fue quien nos tendió la trampa por los asesinatos de Candelero.~
+@109 = ~[Note for Daveaorn 1]Davaeorn,
+He recibido tu petición solicitando más esclavos. Serán enviados lo antes posible. Las cosas van bien en Puerta de Baldur. Hemos comprado una de las mansiones nobles del oeste para utilizarla como base de operaciones. Es un edificio antiguo, seguramente construido antes de la segunda muralla. Su construcción la hace muy defendible frente a los que intenten saquearlo. Recordad preguntarle a Yeslick si disfruta de sus nuevos aposentos.
 
 Rieltar.
 Eleint 14, 1367~
-@110 = ~[Nota para Davaeorn 2]Davaeorn,
-Nuestros planes van bien. Sarevok ha llegado desde nuestros cuarteles en Ordulin. Trae noticias de nuestros superiores; están satisfechos con nuestro progreso. Planeo poner a Sarevok como comandante de nuestras fuerzas mercenarias en la región. Él ya ha enviado a su subordinado, Tazok, al Bosque del Diente Afilado para tomar el comando de las fuerzas que se encuentran allí.  Las cosas están tranquilas en Puerta de Baldur. Hemos puesto a nuestro primer agente entre los cargos de los Siete Soles.
+@110 = ~[Note for Daveaorn 2]Davaeorn,
+Nuestros planes avanzan sin contratiempos. Sarevok ha llegado de nuestro cuartel general de Ordulin. Trae noticias de nuestros superiores; están contentos con nuestros avances hasta el momento. Pretendo nombrar a Sarevok comandante de nuestras fuerzas de mercenarios de la región. Ya ha enviado a su subordinado, Tazok, al Bosque de Dientes Afilados para ponerse al mando de las fuerzas situadas allí. Las cosas transcurren con rapidez aquí en Puerta de Baldur. Hemos situado a nuestro primer agente entre las filas del consorcio de los Siete Soles.
 
 Rieltar.
 Uktar 4, 1367~
-@111 = ~[Nota para Davaeorn 3]Davaeorn,
-Como habéis podido escuchar, el veneno del hierro ha comenzado a hacer efecto en la costa. Con la mayoría de las importaciones de hierro siendo interceptadas por Tazok, casi todo proviene de la zona infectada de Nashkel. Con el levantamiento sythillisiano en Amn, nos aseguramos de que ninguna fuerza de la nación sea capaz de tomar acción contra nuestras fuerzas mercenarias. Sin embargo, El Puño Llameante ha capturado a varios mercenarios de la Garra Negra. Todos los capturados han dicho ser aliados de los Zhentarim, desviado la atención sobre el Trono de Hierro. Envié a Tranzig a trabajar con los mercenarios transportando el hierro a vuestra base en el Bosque de las Capas. Ha traído varias bolsas de contención para que de esa manera pueda transportar él solo el hierro al Bosque de las Capas, reduciendo la posibilidad de que el Puño Llameante pueda encontrar vuestro escondite.
+@111 = ~[Note for Daveaorn 3]Davaeorn,
+Como probablemente habréis oído, el veneno del hierro ha comenzado a hacer efecto por la costa. Con la mayoría de las importaciones de hierro boicoteadas por Tazok, casi todo el suministro proviene de la fuente contaminada en Nashkel. La revuelta sithilliana en Amn ha asegurado que ninguna fuerza de esa nación pueda tomar medidas contra nuestros mercenarios. Sin embargo, el Puño Llameante ha capturado a varios de los mercenarios de la Garra Negra. Todos los capturados han proclamado lealtad al Zhentárim y, por tanto, han desviado cualquier sospecha del Trono de Hierro. He enviado a Tranzig para que trabaje con los mercenarios en el transporte de hierro a vuestra base en el Bosque de las Capas. Se ha llevado varias bolsas de contención para realizar él solo los viajes al Bosque de las Capas, disminuyendo así la posibilidad de que los rastreadores del Puño Llameante encuentren vuestro baluarte.
 
 Rieltar.
 Ches 21, 1368~
 @112 = ~El diario personal de Sarevok
 
+14 de Eleint, 1367: Cormyr ha instituido una prohibición contra el Trono de Hierro para que no opere dentro de sus fronteras. Aunque esto supone un duro golpe para el Trono de Hierro, es la oportunidad perfecta para que mi padre presente su propuesta al Consejo Superior del Trono. Si las cosas van bien, podríamos comenzar la operación antes de que acabe el año.
+
+28 de Eleint, 1367: Davaeorn informa que las minas del Bosque de las Capas han sido drenadas y están listas para su uso. Esta revelación debería ayudar enormemente a convencer al Consejo Superior del Trono.
+
+19 de Marpenoth, 1367: El consejo del Trono de Hierro ha acordado apoyar el plan de padre. Se le han otorgado todos los recursos que necesita, así como el liderazgo del proyecto. He expresado interés a mi "padre" y, tal como prometió, me está incluyendo en las operaciones a lo largo de la Costa de la Espada. Me envía como su representante para establecer contacto con algunos de los grupos mercenarios que operan al este. Mencionó a madre en nuestra conversación: cómo yo no debía serle desleal como lo fue ella. Dejó claro que sufriría su mismo destino si lo fuera. Sus amenazas son débiles y vacías, y solo las escucharé durante un tiempo.
+
+30 de Marpenoth, 1367: Me reuní con los líderes de los Escalofrío y de las Garras Negras. Me agrada poco Ardenor, comandante de los Escalofrío, pero Taugosz parece ser un hombre de palabra. Es algo bueno, ya que tendré que trabajar con estos mercenarios durante todo el proceso.
+
+3 de Uktar, 1367: Un nuevo sueño esta noche. Madre me hablaba, pero mientras lo hacía, su rostro se hinchaba y perdía el color. Su voz se debilitaba al hablarme, pidiéndome que la salvara de Rieltar. Podía ver el garrote hundiéndose en su cuello, pero no hice nada. Solo fue un sueño.
+
+8 de Uktar, 1367: Hoy regresé a Puerta de Baldur e informé a Rieltar. El necio sigue insistiendo en llamarme hijo, y por ahora dejaré que lo haga. Supone que le soy leal porque él me crió. Bueno, leal soy, pero solo mientras sea útil. Ha establecido una base en la mansión de una familia noble arruinada y dice que todo funciona a la perfección.
+
+17 de Nightal, 1367: Mulahey se ha establecido en las minas de Nashkel y ya debería estar convirtiendo a los kobolds para que lo sigan como su líder. Solo unos pocos esclavos han comenzado a extraer mineral en el Bosque de las Capas, aunque una vez que comiencen las incursiones de los bandidos, enviaré a Davaeorn un suministro constante de nuevos esclavos.
+
+6 de Hammer, 1368: El Puño Llameante finalmente ha comenzado a notar nuestra pequeña operación mercenaria y ha enviado varios destacamentos pequeños al Camino de la Costa para intentar repeler las incursiones de los bandidos. Si alguno de los mercenarios es capturado, la mayoría cree que trabajan para los Zhentárim, por lo que ningún problema debería recaer sobre el Trono de Hierro. Estoy seguro de que los Zhentárim en Darkhold no estarán complacidos al saber que su nombre se ha usado falsamente, pero no podemos permitir que las autoridades sigan nuestro rastro.
+
+9 de Hammer, 1368: He decidido aprovechar este momento para visitar Candelero. He esperado mucho tiempo para investigar las profecías de Alaundo, y debo saber si los sueños dicen la verdad. No creeré en palabras de fantasmas sin pruebas, y el sacerdote de Bhaal al que me enfrenté no me dio nada. Era viejo y murió rápidamente a mis manos. Si las palabras son ciertas, sin duda formaré acólitos más fuertes que este.
+
+14 de Alturiak, 1368: En Candelero al fin; los monjes aquí son bastante serviciales. Por lo que he leído, no cabe duda de que la sangre de Bhaal corre por mis venas. Las profecías de Alaundo son, por supuesto, de todo menos explícitas, pero creo que las entiendo. Bhaal previó su muerte inminente y sembró su esencia por toda la tierra. Estos engendros llevan las marcas del caos, tienen poder sin dirección, sentirán la sangre de un dios en su interior y se verán impulsados a causar muerte y destrucción. «Las muertes que traigan despertarán al padre, y a través de ellos él se alzará». La redacción es algo ambigua, pero obviamente esto significa que la muerte provocada por los hijos causará su ascensión. Es apropiado; dado que el padre era el Señor del Asesinato, demostrar la valía de uno debe implicar un acto acorde con su esfera de influencia. Empiezo a ver lo que debo hacer. Muerte a escala divina.
+
+15 de Alturiak, 1368: Más investigación. Parece que Bhaal engendró cientos, quizás miles, de vástagos bastardos, aunque de estos solo veinte alcanzarán un poder real... y de esos, cinco harán que los mismos dioses tiemblen de miedo. Pero el monje Gorion me inquieta. Los escritos de Alaundo incluyen algunos fragmentos más oscuros que mencionan a un pupilo de Gorion, y el monje es seguido, en efecto, por un joven llamado <CHARNAME> que, aunque parece un cachorro ingenuo y afortunado, también me resulta familiar de alguna manera. Gorion parece haberse interesado en mis lecturas. Debo tener cuidado y ser más discreto en mi investigación.
+
+16 de Alturiak, 1368: Me marcho de Candelero ahora, antes de que sea demasiado tarde, pues estoy convencido de que Gorion ha percibido mi herencia. Ojalá pudiera matarlo sin más, pero dudo que pudiera asesinarlo de forma segura dentro de esta condenable biblioteca. De una cosa estoy seguro: <CHARNAME> es, en realidad, también uno de los engendros de Bhaal. Todas las marcas están ahí, y eso explicaría la curiosidad de Gorion por mis estudios, así como el hecho de que <CHARNAME> sea mencionado en la profecía. Aunque no hay nada que pueda hacer ahora, tendré que asegurarme de regresar y matar al pequeño mocoso. Sería una necedad por mi parte dejar vivir a uno de mis hermanos, especialmente a uno criado por los Arpistas, y estoy seguro de que ahí residen las lealtades de Gorion.
+
+17 de Ches, 1368: Todo va según lo previsto. El mineral procedente de Nashkel ha comenzado a deteriorarse y los mercenarios están haciendo un buen trabajo interceptando todas las caravanas de hierro que se dirigen a Puerta de Baldur. Aunque algunos de mis hombres han sido capturados, la historia de los Zhentárim se sostiene, por lo que el Trono de Hierro no ha tenido problemas. Sin embargo, tendré que estar atento a los agentes de Zhentárim en los próximos meses.
+
+28 de Tarsakh, 1368: Ha llegado el momento de ocuparse de ese viejo cascarrabias de Gorion y de su pequeño cachorro. Tendré que informar a mis hombres de que estaré fuera los próximos días.
+
+19 de Kythorn, 1368: Apenas tengo tiempo para escribir, pero no debo descuidar mis diarios de esta manera. Los futuros muertos deben saber cómo el Señor del Asesinato regresó una vez más a ellos. Quizás contrate a un escriba cuando el tiempo lo permita, pero ahora mismo espero que nuestro pequeño drama comience aquí en cualquier momento. Mi autoproclamado padre, Rieltar, está arriba con dos representantes de los Caballeros del Escudo. Como era de esperar, ha estado bloqueando todos mis intentos de escalar las hostilidades fronterizas. Lo lamento mucho, "padre", pero mi verdadera ascendencia me llama y tú te interpones en mi camino. En el caso poco probable de que el próximo encuentro no produzca derramamiento de sangre inmediato, me aseguraré de instruir a los doppelgangers sobre la manera exacta en que Rieltar debe morir. Creo que un garrote sería perfecto para la tarea.
+
+Este diario parece ser importante. Probablemente deberías guardarlo contigo.~
+~El diario personal de Sarevok
+
+14 de Eleint, 1367: Cormyr ha instituido una prohibición contra el Trono de Hierro para que no opere dentro de sus fronteras. Aunque esto supone un duro golpe para el Trono de Hierro, es la oportunidad perfecta para que mi padre presente su propuesta al Consejo Superior del Trono. Si las cosas van bien, podríamos comenzar la operación antes de que acabe el año.
+
+28 de Eleint, 1367: Davaeorn informa que las minas del Bosque de las Capas han sido drenadas y están listas para su uso. Esta revelación debería ayudar enormemente a convencer al Consejo Superior del Trono.
+
+19 de Marpenoth, 1367: El consejo del Trono de Hierro ha acordado apoyar el plan de padre. Se le han otorgado todos los recursos que necesita, así como el liderazgo del proyecto. He expresado interés a mi "padre" y, tal como prometió, me está incluyendo en las operaciones a lo largo de la Costa de la Espada. Me envía como su representante para establecer contacto con algunos de los grupos mercenarios que operan al este. Mencionó a madre en nuestra conversación: cómo yo no debía serle desleal como lo fue ella. Dejó claro que sufriría su mismo destino si lo fuera. Sus amenazas son débiles y vacías, y solo las escucharé durante un tiempo.
+
+30 de Marpenoth, 1367: Me reuní con los líderes de los Escalofrío y de las Garras Negras. Me agrada poco Ardenor, comandante de los Escalofrío, pero Taugosz parece ser un hombre de palabra. Es algo bueno, ya que tendré que trabajar con estos mercenarios durante todo el proceso.
+
+3 de Uktar, 1367: Un nuevo sueño esta noche. Madre me hablaba, pero mientras lo hacía, su rostro se hinchaba y perdía el color. Su voz se debilitaba al hablarme, pidiéndome que la salvara de Rieltar. Podía ver el garrote hundiéndose en su cuello, pero no hice nada. Solo fue un sueño.
+
+8 de Uktar, 1367: Hoy regresé a Puerta de Baldur e informé a Rieltar. El necio sigue insistiendo en llamarme hijo, y por ahora dejaré que lo haga. Supone que le soy leal porque él me crió. Bueno, leal soy, pero solo mientras sea útil. Ha establecido una base en la mansión de una familia noble arruinada y dice que todo funciona a la perfección.
+
+17 de Nightal, 1367: Mulahey se ha establecido en las minas de Nashkel y ya debería estar convirtiendo a los kobolds para que lo sigan como su líder. Solo unos pocos esclavos han comenzado a extraer mineral en el Bosque de las Capas, aunque una vez que comiencen las incursiones de los bandidos, enviaré a Davaeorn un suministro constante de nuevos esclavos.
+
+6 de Hammer, 1368: El Puño Llameante finalmente ha comenzado a notar nuestra pequeña operación mercenaria y ha enviado varios destacamentos pequeños al Camino de la Costa para intentar repeler las incursiones de los bandidos. Si alguno de los mercenarios es capturado, la mayoría cree que trabajan para los Zhentárim, por lo que ningún problema debería recaer sobre el Trono de Hierro. Estoy seguro de que los Zhentárim en Darkhold no estarán complacidos al saber que su nombre se ha usado falsamente, pero no podemos permitir que las autoridades sigan nuestro rastro.
+
+9 de Hammer, 1368: He decidido aprovechar este momento para visitar Candelero. He esperado mucho tiempo para investigar las profecías de Alaundo, y debo saber si los sueños dicen la verdad. No creeré en palabras de fantasmas sin pruebas, y el sacerdote de Bhaal al que me enfrenté no me dio nada. Era viejo y murió rápidamente a mis manos. Si las palabras son ciertas, sin duda formaré acólitos más fuertes que este.
+
+14 de Alturiak, 1368: En Candelero al fin; los monjes aquí son bastante serviciales. Por lo que he leído, no cabe duda de que la sangre de Bhaal corre por mis venas. Las profecías de Alaundo son, por supuesto, de todo menos explícitas, pero creo que las entiendo. Bhaal previó su muerte inminente y sembró su esencia por toda la tierra. Estos engendros llevan las marcas del caos, tienen poder sin dirección, sentirán la sangre de un dios en su interior y se verán impulsados a causar muerte y destrucción. «Las muertes que traigan despertarán al padre, y a través de ellos él se alzará». La redacción es algo ambigua, pero obviamente esto significa que la muerte provocada por los hijos causará su ascensión. Es apropiado; dado que el padre era el Señor del Asesinato, demostrar la valía de uno debe implicar un acto acorde con su esfera de influencia. Empiezo a ver lo que debo hacer. Muerte a escala divina.
+
+15 de Alturiak, 1368: Más investigación. Parece que Bhaal engendró cientos, quizás miles, de vástagos bastardos, aunque de estos solo veinte alcanzarán un poder real... y de esos, cinco harán que los mismos dioses tiemblen de miedo. Pero el monje Gorion me inquieta. Los escritos de Alaundo incluyen algunos fragmentos más oscuros que mencionan a un pupilo de Gorion, y el monje es seguido, en efecto, por una joven llamada <CHARNAME> que, aunque parece una cachorra ingenua y afortunada, también me resulta familiar de alguna manera. Gorion parece haberse interesado en mis lecturas. Debo tener cuidado y ser más discreto en mi investigación.
+
+16 de Alturiak, 1368: Me marcho de Candelero ahora, antes de que sea demasiado tarde, pues estoy convencido de que Gorion ha percibido mi herencia. Ojalá pudiera matarlo sin más, pero dudo que pudiera asesinarlo de forma segura dentro de esta condenable biblioteca. De una cosa estoy seguro: <CHARNAME> es, en realidad, también una de los engendros de Bhaal. Todas las marcas están ahí, y eso explicaría la curiosidad de Gorion por mis estudios, así como el hecho de que <CHARNAME> sea mencionado en la profecía. Aunque no hay nada que pueda hacer ahora, tendré que asegurarme de regresar y matar a la pequeña mocosa. Sería una necedad por mi parte dejar vivir a uno de mis hermanos, especialmente a uno criado por los Arpistas, y estoy seguro de que ahí residen las lealtades de Gorion.
+
+17 de Ches, 1368: Todo va según lo previsto. El mineral procedente de Nashkel ha comenzado a deteriorarse y los mercenarios están haciendo un buen trabajo interceptando todas las caravanas de hierro que se dirigen a Puerta de Baldur. Aunque algunos de mis hombres han sido capturados, la historia de los Zhentárim se sostiene, por lo que el Trono de Hierro no ha tenido problemas. Sin embargo, tendré que estar atento a los agentes de Zhentárim en los próximos meses.
+
+28 de Tarsakh, 1368: Ha llegado el momento de ocuparse de ese viejo cascarrabias de Gorion y de su pequeña cachorra. Tendré que informar a mis hombres de que estaré fuera los próximos días.
+
+19 de Kythorn, 1368: Apenas tengo tiempo para escribir, pero no debo descuidar mis diarios de esta manera. Los futuros muertos deben saber cómo el Señor del Asesinato regresó una vez más a ellos. Quizás contrate a un escriba cuando el tiempo lo permita, pero ahora mismo espero que nuestro pequeño drama comience aquí en cualquier momento. Mi autoproclamado padre, Rieltar, está arriba con dos representantes de los Caballeros del Escudo. Como era de esperar, ha estado bloqueando todos mis intentos de escalar las hostilidades fronterizas. Lo lamento mucho, "padre", pero mi verdadera ascendencia me llama y tú te interpones en mi camino. En el caso poco probable de que el próximo encuentro no produzca derramamiento de sangre inmediato, me aseguraré de instruir a los doppelgangers sobre la manera exacta en que Rieltar debe morir. Creo que un garrote sería perfecto para la tarea.
+
+Este diario parece ser importante. Probablemente deberías guardarlo contigo.~
+
+//Previous version of translated diary entries, do not match mod bg1ub
+/*
+@112 = ~El diario personal de Sarevok
+
 Este diario parece importante. Deberíais guardarlo, porque puede ser una pieza incriminatoria contra Sarevok, además de poder comprender mejor a su escritor. Algunas de las entradas más relevantes leen lo siguiente:
 
+																																																				 
 
 21 de Nightal, 1366:  Padre parece estar tramando algo importante, pero como es usual, no me revela los detalles del plan. Las conversaciones en su estudio se desvían hacia Bosque de las Capas y sus defensas naturales, y el extraer agua de las cuevas. No he podido sacar nada en concreto de esto, ni sé quiénes son los hombres que le visitan.  Esto cambiará.
 
@@ -199,6 +269,7 @@ Estoy un poco decepcionado de Rieltar: Su habilidad manipulando este plan del hi
 
 Este diario parece importante. Deberíais guardarlo, porque puede ser una pieza incriminatoria contra Sarevok, además de poder comprender mejor a su escritor. Algunas de las entradas más relevantes leen lo siguiente:
 
+																																																				 
 
 21 de Nightal, 1366:  Padre parece estar tramando algo importante, pero como es usual, no me revela los detalles del plan. Las conversaciones en su estudio se desvían hacia Bosque de las Capas y sus defensas naturales, y el extraer agua de las cuevas. No he podido sacar nada en concreto de esto, ni sé quiénes son los hombres que le visitan. Esto cambiará.
 
@@ -276,10 +347,10 @@ Estoy un poco decepcionado de Rieltar: Su habilidad manipulando este plan del hi
 19 de Kythorn, 1368: Casi sin tiempo de escribir, pero no debo olvidarme de mi diario.  Los futuros muertos deben saber cómo se creó el Señor del Asesinato. Tal vez deba contratar un escriba cuando me lo permita el tiempo. Tal parece que no tuve que maniobrar con los libros de Cyric en las manos de <CHARNAME> ya que el Duque Eltan estuvo más que feliz de dárselos a mi chivo expiatorio. Hace unos momentos vi a <CHARNAME> entrar en Candelero, y espero que el drama comience en cualquier momento. Mi padre, Rieltar, está arriba con dos representantes de los Caballeros del Escudo. Como he previsto, él ha estado bloqueando mis intentos de escalar las hostilidades en la frontera. Lo siento, 'padre', pero mi herencia verdadera se pone en mi camino. Si ocurriera que el encuentro no produce derramamiento de sangre, me aseguraré de que los dopplegangers maten a Rieltar. Creo que un garrote sería perfecto.
 
 21 de Kythorn, 1368: En la cima del mundo. Con Thaldorn, Rieltar y Brunos muertos, <CHARNAME> bajo custodia por sus muertes y el Trono de Hierro a mi disposición, la ciudad entera está a mis pies, todo funciona tal y como Alaundo dijo. He anunciado mi intención de donar todo al esfuerzo de la guerra, y ahora que Escudo de Plata está fuera de mi camino, los rumores de elevarme a Gran Duque están comenzando a circular entre el populacho. Lo único malo es el mensaje que envié a Zhalimar no llegó a tiempo, robándome a seis de mis mejores hombres. Me he encargado personalmente del mensajero, y tal vez pueda hacer arreglos para poder ser yo mismo quien ejecute a <CHARNAME>, completando mi círculo de venganza.~
+*/
 
-
-@113   = ~Anillo sello~
-@114   = ~Este es un anillo sello con un rubí incrustado.~
+@113   = ~Anillo de sello~
+@114   = ~Este es un anillo de sello con un rubí incrustado.~
 
 //New for BGEE
 @115 = ~Hacha de Bala - Asesino de Magos:
@@ -288,35 +359,37 @@ Bala era un príncipe muy temperamental de un clan de enanos gully que fue escla
 
 CARACTERÍSTICAS:
 
-Aptitud especial: 
-  Magia equívoca afecta a la víctima con cada golpe recibido
-  (Magia equívoca: Cualquier criatura lanzadora de hechizos es afectada por esta propiedad. Cuando la criatura intenta lanzar un hechizo, tiene un 80% de probabilidades de fallo. Las criaturas pueden salvar contra hechizos con penalización de -2.)
+Habilidades de combate:
+- Magia equívoca: Si el golpe tiene éxito, inflige un efecto de estado que provoca un 80 % de probabilidades de fallo en el lanzamiento de conjuros, a menos que la víctima supere su tirada de salvación contra hechizos con una penalización de -2.
+
+Habilidades especiales:
+- Puede lanzar un conjuro de Disipar magia una vez al día.
 
 Daño: 1D8
 Tipo de daño: Cortante
 Peso: 6 lbs
 Factor de Velocidad: 7
 Talento marcial: Hacha
-Tipo: Una mano~
+Tipo de arma: A una mano~
 
 // Unshey Dialog Restoration
 @120 = ~Guía práctica de salud corporal de la gran clérigo Unshey~
-@121 = ~Un manual de salud corporal típico le proporciona al lector valiosa información sobre medicina preventiva, primeros auxilios y tonificación de músculos adecuada.
+@121 = ~Un manual de salud corporal típico proporciona al lector valiosa información sobre medicina preventiva, primeros auxilios y tonificación de músculos adecuada.
 
 Peso: 2 lbs~
 
 @123 = ~Guantes de robo de Fong
-Hace unos años, Fong Moo un famoso ladrón conocido tanto en Puerta de Baldur como en Athkatla, fue encontrado muerto en el camino desde la Puerta a Beregost. Parece que robó un artefacto a un gran mago e intentó escapar sin mucho éxito. Sus posesiones recayeron en un sobrino con la misma vocación que su tío, y se hizo muy bueno robando carteras. Si estos guantes eran mágicos antes de caer en manos de Fong o si la esencia de su maestro ha quedado impregnada en ellos, es algo que no se sabe. 
+Hace algunos años, Fong Moo, un famoso ratero conocido tanto en Puerta de Baldur como en Athkatla, fue encontrado muerto entre Puerta y Beregost. Al parecer, robó un artefacto a un poderoso hechicero e intentó escapar, sin mucho éxito. Sus posesiones fueron enviadas a su sobrino, que tomó el mismo camino que su tío y se convirtió en un gran ladrón. No se sabe si estos guantes eran mágicos antes de caer en las manos de Fong o si están de alguna manera imbuidos con su esencia.
 
 CARACTERÍSTICAS:
 
-Robar: bonificación +20%
+Aptitudes poseídas: +20% a hurtar
 
 Peso: 2 lbs~
 
 // Ice Island Level 2 Restoration
-@1001 = ~Gólem de Nieve~
-@1002 = ~Aliento de Gólem de Nieve~
+@1001 = ~Golem de nieve~
+@1002 = ~Aliento de golem de nieve~
 
 // Nim Furlwing Encounter
 @4001 = ~Nim Alasplegadas~

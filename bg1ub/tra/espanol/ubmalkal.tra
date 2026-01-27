@@ -2,8 +2,8 @@
 
 //CRE Sounds
 /* 4852 */
-@4302 = ~[MAL-KALEN 1] ¡Soltadlo! ¡Soltadlo! ¡Soltad vuestro cuerpo para volver a la vida! ¡Debo vengarme!~ [MALKL01]
-@4303 = ~[MAL-KALEN 2] ¡Soltad vuestro cuerpo! ¡Yo,viviré de nuevo!~ [MALKL02]
+@4302 = ~[MAL-KALEN 1] ¡Liberadme! ¡Liberadme! Volveré al cuerpo para acabar su vida. ¡Debo vengarme!~ [MALKL01]
+@4303 = ~[MAL-KALEN 2] ¡Liberad el cuerpo! Volveré a vivir, ¡yo!~ [MALKL02]
 @4304 = ~[MAL-KALEN 3] ~ [MALKL03]
 @4305 = ~[MAL-KALEN 4] ~ [MALKL04]
 @4306 = ~[REVENANT 01] ~ [REVEN01]
@@ -12,40 +12,39 @@
 @4309 = ~[REVENANT 06] ~ [REVEN06]
 
 //Dialog
-@4310 = ~Ayudadme... dentro de tu cuerpo... solo seré una sombra yo... dentro de tu cuerpo... ¡Viviré de nuevo! ¡Venganza a nuestros destructores!~ /* #2472 */
-@4311 = ~Pobre criatura, ¿quién fuisteis en vida?~ /* #2474 */ 
-@4312 = ~¿No hay descanso para tu espíritu? ¿Qué te retiene en este lugar?~ /* #2476 */
-@4313 = ~¡Atrás, horroroso no muerto! ¡Atrás, si no deseas volver a morir!~ /* #2475 */ 
-@4314 = ~Yo ser Mal-Kalen... yo ser estudiante... yo vengarme de nuestros destructores... ¡soltad vuestro cuerpo!~ /* #2473 */
-@4315 = ~La Escuela destruida por la traición... Ulcaster desaparecido... protegerla, dijeron ... ¡debo vengarme!~ /* #2477 */
-@4316 = ~Dentro de vuestro cuerpo... no habrá escape para tu cuerpo... ¡Soltad vuestro cuerpo para que yo viva! ¡Venganza a nuestros destructores!~ /* #2478 */
-@4317 = ~¡Te suplico que detengas tu ataque! ¡No soy tu enemigo!~ /* #2481 */
-@4318 = ~¡Dejadme en paz! ¡No quiero saber nada de tu furia ancestral!~ /* #2482 */
-@4319 = ~¿Pensaste que estabas muerto antes? ¡Espera a que termine contigo!~ /* #2483 */
-@4320 = ~Tu no ser enemigo... tú tener un cuerpo... ¡Soltad vuestro cuerpo para que yo viva! ¡Venganza a nuestros destructores!~ /* #2479 */
-@4321 = ~¡La batalla ha sido olvidada por todos! ¡Detén tu búsqueda sin sentido!~ /* #2488 */
-@4322 = ~¡Voy a "soltar" mi cuerpo fuera de este lugar! ¡Nos vemos!~ /* #2489 */ 
-@4323 = ~¡Espera! Puedes llevarte el cuerpo de Samuel. ¡Dejadme en paz!~ 
-@4324 = ~¡Espera! Puedes llevarte el cuerpo de Evan. ¡Dejadme en paz!~ 
-@4325 = ~¡Espera! Puedes llevarte el cuerpo de Brage. ¡Dejadme en paz!~ 
-@4326 = ~¡Espera! Puedes llevarte el cuerpo de Nathan. ¡Dejadme en paz!~ 
-@4327 = ~¡Espera! Puedes llevarte el cuerpo de Chelak. ¡Dejadme en paz!~ 
-@4328 = ~¡Espera! Puedes llevarte el cuerpo de esta mujer. ¡Dejadme en paz!~ 
-@4329 = ~¡Espera! Puedes llevarte el cuerpo de este hombre. ¡Dejadme en paz!~ 
-@4330 = ~Han pasado sólo diez días... ¡Debo vengarme de nuestros destructores! ¡Soltad vuestro cuerpo!~ /* #2480 */
-@4331 = ~¡Han pasado 300 años! ¡El tiempo ya se habrá vengado por ti!~ /* #2487 */ 
-@4332 = ~"¡Soltad vuestro cuerpo, Soltad vuestro cuerpo!" ¡Te devolveré a los Nueve Infiernos!~ /* #2490 */ 
-@4333 = ~No he olvidado... fue hace diez días ... ¡Soltad vuestro cuerpo!~ /* #2491 */
-@4334 = ~300 años... no puede ser... 300... todos deben estar muertos...~ /* #2496 */
-@4335 = ~Todos están muertos... me quedare... me vengare de sus descendientes... ¡Venganza a nuestros destructores! ¡Soltad vuestro cuerpo!~ /* #2497 */
-@4336 = ~Luchad o no... ¡Soltad vuestro cuerpo!... ¡¡¡SOLTADLO!!!~ /* #2498 */
-@4337 = ~Yo viviré de nuevo... ¡Venganza a nuestros destructores!~ /* #2499 */
-@4338 =  ~Noooo... Venganza a nuestros destructores.... Venganza....~ /* #2500 */
+@4310 = ~Ayúdame... el cuerpo está dentro... solo una sombra... yo... dentro del cuerpo... ¡viviré de nuevo! ¡Venganza contra los destructores!~ /* #2472 */ 
+@4311 = ~Pobre criatura, ¿quién fuiste en vida?~ /* #2474 */ 
+@4312 = ~¿No hay descanso para tu espíritu? ¿Qué te retiene en este lugar?~ /* #2476 */ 
+@4313 = ~¡Atrás, horror no muerto! ¡Atrás, a menos que desees morir de nuevo!~ /* #2475 */ 
+@4314 = ~Mal-Kalen yo... estudiante yo... venganza contra destructores... ¡liberad el cuerpo!~ /* #2473 */ 
+@4315 = ~Escuela destruida por traición... Ulcaster ha desaparecido... proteger dijeron... ¡debo vengarme!~ /* #2477 */ 
+@4316 = ~Ahora el cuerpo dentro... no hay escape para el cuerpo... ¡liberad el cuerpo para que viva! ¡Venganza contra los destructores!~ /* #2478 */ 
+@4317 = ~¡Te lo suplico, cesa tu ataque! ¡No soy tu enemigo!~ /* #2481 */ 
+@4318 = ~¡Déjame en paz! ¡No quiero ser parte de tu antigua cólera!~ /* #2482 */ 
+@4319 = ~¿Pensabas que ya estabas muerto? ¡Espera a que acabe contigo!~ /* #2483 */ 
+@4320 = ~Tú no enemigo... tú el cuerpo... ¡liberad el cuerpo para que viva! ¡Venganza contra los destructores!~ /* #2479 */ 
+@4321 = ~¡La batalla ha sido olvidada por todos! ¡Detén tu búsqueda sin sentido!~ /* #2488 */ 
+@4322 = ~¡Voy a liberar mi cuerpo de este lugar ahora mismo! ¡Ahí te quedas!~ /* #2489 */ 
+@4323 = ~¡Espera! Puedes llevarte el cuerpo de Samuel. ¡Solo déjame en paz!~ 
+@4324 = ~¡Espera! Puedes llevarte el cuerpo de Evan. ¡Solo déjame en paz!~ 
+@4325 = ~¡Espera! Puedes llevarte el cuerpo de Brage. ¡Solo déjame en paz!~ 
+@4326 = ~¡Espera! Puedes llevarte el cuerpo de Nathan. ¡Solo déjame en paz!~ 
+@4327 = ~¡Espera! Puedes llevarte el cuerpo de Chelak. ¡Solo déjame en paz!~ 
+@4328 = ~¡Espera! Puedes llevarte el cuerpo de esta mujer. ¡Solo déjame en paz!~ 
+@4329 = ~¡Espera! Puedes llevarte el cuerpo de este hombre. ¡Solo déjame en paz!~ 
+@4330 = ~Solo han pasado diez días... ¡debo vengarme de los destructores! ¡Liberad el cuerpo!~ /* #2480 */ 
+@4331 = ~¡Han pasado 300 años! ¡El tiempo ya se ha llevado a tus presas!~ /* #2487 */ 
+@4332 = ~"¡Liberad el cuerpo, liberad el cuerpo!" ¡Te liberaré de vuelta a los Nueve Infiernos!~ /* #2490 */ 
+@4333 = ~No olvidado por mí... solo diez días... ¡liberad el cuerpo!~ /* #2491 */ 
+@4334 = ~300 años... no puede ser... 300... muertos todos deben estar...~ /* #2496 */ 
+@4335 = ~Todos muertos... yo permanezco... exigiré penitencia a sus descendientes... ¡venganza contra los destructores! ¡Liberad el cuerpo!~ /* #2497 */ 
+@4336 = ~Luchéis o no... liberad el cuerpo... ¡¡¡LIBERAD!!!~ /* #2498 */ 
+@4337 = ~Vivo de nuevo... ¡venganza contra los destructores!~ /* #2499 */ 
+@4338 = ~Noooo... venganza contra los destructores.... venganza....~ /* #2500 */
 
 
-// Journal Entries  
-@4350 = ~Mal-Kalen, el fantasma de Ulcaster
-  Encontré el espíritu de Mal-Kalen, un antiguo alumno de la Escuela de Ulcaster que ha estado rondando las ruinas durante siglos. El espíritu quería un cuerpo para habitar y vengarse de la destrucción de la escuela. Por lo que rechacé su solicitud con fuerza.~ 
-@4351 = ~Mal-Kalen, el fantasma de Ulcaster
-  Encontré el espíritu de Mal-Kalen, un antiguo alumno de la Escuela de Ulcaster que ha estado rondando las ruinas durante siglos. El espíritu quería un cuerpo para habitar y vengarse de la destrucción de la escuela. Le di lo que quería y escapé con mi propio cuerpo intacto.~ 
-
+// Journal Entries
+@4350 = ~Mal-Kalen, el espíritu de Ulcaster 
+Me encontré con el espíritu de Mal-Kalen, un antiguo estudiante de la escuela de Ulcaster que ha estado rondando las ruinas durante siglos. El espíritu quería un cuerpo que habitar para vengarse de la destrucción de la escuela. Rechacé su petición por la fuerza.~ 
+@4351 = ~Mal-Kalen, el espíritu de Ulcaster 
+Me encontré con el espíritu de Mal-Kalen, un antiguo estudiante de la escuela de Ulcaster que ha estado rondando las ruinas durante siglos. El espíritu quería un cuerpo que habitar para vengarse de la destrucción de la escuela. Le di lo que quería y escapé con mi propio cuerpo intacto.~

@@ -1,67 +1,66 @@
-// Svlast CRE
-@4201 = ~Svlast~
-@4202 = ~[LOTHANDER 2] Mi vida es un desastre.~ [%tutu_var%LOTHR02]
-@4203 = ~[LOTHANDER 3]~ [%tutu_var%LOTHR03]
+// Svlast CRE 
+@4201 = ~Svlast~ 
+@4202 = ~[LOTHANDER 2] Mi vida está hecha pedazos.~ [%tutu_var%LOTHR02] 
+@4203 = ~[LOTHANDER 3]~ [%tutu_var%LOTHR03] 
 @4204 = ~[LOTHANDER 4]~ [%tutu_var%LOTHR04]
 
-// Revenant
-@4210 = ~Aparecido~
-@4211 = ~[REVENANT 01] ~ [%tutu_var%REVEN01]
-@4212 = ~[REVENANT 02] Debo... vengarme...~ [%tutu_var%REVEN02]
-@4213 = ~[REVENANT 03] He venido a por ti.~ [%tutu_var%REVEN03]
-@4214 = ~[REVENANT 04] Tu... debes... pagar...~ [%tutu_var%REVEN04]
-@4215 = ~[REVENANT 05] ~ [%tutu_var%REVEN05]
-@4216 = ~[REVENANT 06] ~ [%tutu_var%REVEN06]
-@4217 = ~Venganza...~
-@4218 = ~[REVENANT 08] ~ [%tutu_var%REVEN08]
+// Revenant 
+@4210 = ~Espectro~ 
+@4211 = ~[REVENANT 01] ~ [%tutu_var%REVEN01] 
+@4212 = ~[REVENANT 02] Debo... vengarme...~ [%tutu_var%REVEN02] 
+@4213 = ~[REVENANT 03] He venido a por ti.~ [%tutu_var%REVEN03] 
+@4214 = ~[REVENANT 04] Tú... lo... pagarás...~ [%tutu_var%REVEN04] 
+@4215 = ~[REVENANT 05] ~ [%tutu_var%REVEN05] 
+@4216 = ~[REVENANT 06] ~ [%tutu_var%REVEN06] 
+@4217 = ~Venganza...~ 
+@4218 = ~[REVENANT 08] ~ [%tutu_var%REVEN08] 
 @4219 = ~[REVENANT 09] ~ [%tutu_var%REVEN09]
 
+// UBSVLAST.D 
+/* #14889 */ 
+@4220 = ~Está ahí fuera. Ya viene. Puedo sentir sus pasos, siguiéndome. El olor a carne podrida. Viene a por todos nosotros.~ 
+/* #14890 */ 
+@4221 = ~Yo... yo lo maté. Pero está ahí fuera, viene hacia aquí, puedo sen... sentirlo.~ 
+/* #14891 - MODIFIED */ 
+@4222 = ~Fui paladín, una vez. Luché en el bando del bien, pero todo queda en nada... Lo asesiné a sangre fría, a mi hermano en la fe... Cuando venga, dejadlo estar.~ 
+/* #14893 - MODIFIED */ 
+@4223 = ~¿Qué habéis hecho? ¡Ahora soy aún más desgraciado! ¡Mátadme en este atormentado lugar! Al menos así habrá algo de justicia.~ 
+/* #14894 */ 
+@4224 = ~¿Qué podrías esperar aprender de un necio miserable como yo? Aprende de mi ejemplo, al menos, y no busques matar aquello que es bueno en el mundo.~ 
+/* #14895 */ 
+@4225 = ~Por favor, dejadme a solas con mi miseria.~ 
+/* #14896 */ 
+@4226 = ~Por mucho que pueda desear la muerte, no la afrontaré sin luchar.~ 
+@4227 = ~Lo siento, hermano mío... Tuve celos, fui... un necio. Mi vida es tuya.~
 
-// UBSVLAST.D
-/* #14889 */
-@4220 = ~Está ahí fuera. Viene hacia aquí. Puedo sentir sus pasos siguiéndome. El hedor de su carne putrefacta. Viene a por todos nosotros.~ 
-/* #14890 */
-@4221 = ~Yo... yo lo maté. Pero está ahí fuera y se dirige hacia aquí. Lo puedo sen... sentir.~ 
-/* #14891 - MODIFIED */
-@4222 = ~Una vez llegué a ser un paladín. Luché en el bando de los buenos, pero al final no sirvio para nada. Yo... yo lo maté a sangre fria, a mi hermano de fe... Cuando venga, dejad que haga lo que quiera.~ 
-/* #14893 - MODIFIED */
-@4223 = ~¿Qué habéis hecho? ahora, me siento más miserable que nunca. ¡Matadme en este maldito lugar! Por lo menos, se hará justicia.~ 
-/* #14894 */
-@4224 = ~¿Qué esperáis aprender de un miserable idiota como yo? Al menos, espero que os sirva de ejemplo mi caso y no busquéis la destrucción del bien que hay en el mundo.~ 
-/* #14895 */
-@4225 = ~Os suplico que me dejéis pudrirme en mi miseria.~ 
-/* #14896 */
-@4226 = ~Por mucho que desee la muerte, no moriré sin antes haber luchado.~ 
-@4227 = ~Lo siento, hermano mío... Tenía celos. Fui... imbécil. Mi vida es tuya.~ 
+// Replies 
+@4240 = ~¿De qué estás hablando? ¿Quién viene a por nosotros?~ 
+@4241 = ~¿Quién era esa persona? ¿Por qué te acecha desde el más allá?~ 
+@4242 = ~¿Estás loco? ¡No me quedaré de brazos cruzados dejando que esa criatura te mate!~ 
+@4243 = ~Como desees. No estoy de acuerdo con tu decisión, pero si es tu elección morir a manos de esa criatura, no me interpondré.~ 
+@4244 = ~No hay problema. Esto es entre él y tú. ¡No quiero tener nada que ver!~ 
+@4245 = ~¿Una criatura no muerta busca tu muerte? ¡Quizás deberíamos darle lo que quiere!~ 
+@4246 = ~Como desees. Que se haga justicia.~ 
+@4247 = ~Me niego. No seré tu verdugo. Tendrás que expiar tus crímenes. Quizás entonces otros puedan aprender de tus errores.~ 
+@4248 = ~¡Vaya forma de mostrar gratitud! ¡Acabo de salvar tu miserable vida!~ 
+@4249 = ~Si eso es lo que deseas, será un placer para mí.~
 
-// Replies
-@4240 = ~¿De qué estás hablando? ¿Quién viene a por nosotros?~
-@4241 = ~¿Quién era esa persona? ¿Por qué te atormenta desde más allá de la tumba?~
-@4242 = ~¿Estás loco? ¡No me quedaré de brazos cruzados mientras esa criatura te mata!~
-@4243 = ~Como desées. No estoy de acuerdo con tu decisión, pero si es tu elección morir a manos de esta criatura, no me interpondré en tu camino.~ 
-@4244 = ~No hay problema. Este asunto es entre tú y él. ¡Y no quiero ser parte de esto!~
-@4245 = ~¿Una criatura no muerta busca "tu" muerte? ¡Quizás deberíamos simplemente darle lo que desea!~
-@4246 = ~Como desées. Se hará justicia.~
-@4247 = ~Me niego. No seré tu verdugo. Tendrás que expiar tus crímenes. Quizás así otros podrán aprender de tus errores.~ 
-@4248 = ~¡Vaya manera de mostrar tu gratitud! ¡Acabo de salvar tu miserable vida!~
-@4249 = ~Si eso es lo que deseas, será un placer.~
-
-// Journal Entries
-//  (Strref: 15713)
-@4290 = ~El Tormento de Svlast
-He presenciado momentos tristes entre las ruinas de Vinoardiente. Un ex paladín llamado Svlast está siendo atormentado por el espíritu de su hermano de fe, a quien injustamente asesinó. Nunca he visto un alma tan abatida y arrepentida como la del pobre Svlast. Nos ha rogado que no interfiramos, pero a mi corazón no le resulta fácil aceptar eso...~
-@4291 = ~El Tormento de Svlast
-Un ex paladín llamado Svlast está siendo atormentado por el espíritu de su hermano de fe, a quien injustamente asesinó. Nos suplicó que no interfiriéramos.~
-@4292 = ~El Tormento de Svlast
-Un ex paladín llamado Svlast está siendo atormentado por el espíritu de su hermano de fe, a quien injustamente asesinó. Le di a la criatura lo que quería al matar al paladín caído con mis propias manos.~
-@4293 = ~El Tormento de Svlast
-El Tormento de Svlast ha terminado. La criatura ha tomado su venganza.~
-// (Strref: 15703)
-@4295 = ~El Tormento de Svlast
-Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... El día está oscuro entre estas ruinas y me temo que va oscureciendo más aún.~
-@4296 = ~El Tormento de Svlast
-Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... Me negué rotundamente. Tendrá que expiar sus crímenes.~
-@4297 = ~El Tormento de Svlast
-Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... ¡Pensaba que mostraría algo de gratitud!~
-@4298 = ~El Tormento de Svlast
-Tras sobrevivir al ataque del aparecido con nuestra ayuda, el pobre y maltrecho Svlast no ha parado de rogarnos que le ayudemos a completar su tarea... ¿Quién era yo para negarme?~
+// Journal Entries 
+// (Strref: 15713) 
+@4290 = ~El tormento de Svlast 
+He sido testigo de tristes sucesos en las ruinas de Vinoardiente. Un ex-paladín llamado Svlast está siendo cazado por el espíritu de su hermano en la fe, a quien mató injustamente. Nunca he visto un alma más abatida y arrepentida que la del pobre Svlast. Nos ha suplicado que no intervengamos, pero mi corazón no se queda tranquilo con tal decisión...~ 
+@4291 = ~El tormento de Svlast 
+Un ex-paladín llamado Svlast está siendo cazado por el espíritu de su hermano en la fe, a quien mató injustamente. Nos suplicó que no intervengamos.~ 
+@4292 = ~El tormento de Svlast 
+Un ex-paladín llamado Svlast estaba siendo cazado por el espíritu de su hermano en la fe, a quien mató injustamente. Le di a la criatura lo que quería matando yo mismo al paladín caído.~ 
+@4293 = ~El tormento de Svlast 
+El tormento de Svlast ha terminado. La criatura se cobró su venganza.~ 
+// (Strref: 15703) 
+@4295 = ~El tormento de Svlast 
+Tras sobrevivir al ataque del espectro con nuestra ayuda, el pobre y desdichado Svlast nos suplicó que completáramos su tarea... El día es oscuro en estas ruinas, y temo que se vuelve cada vez más sombrío.~ 
+@4296 = ~El tormento de Svlast 
+Tras sobrevivir al ataque del espectro con nuestra ayuda, el pobre y desdichado Svlast nos suplicó que completáramos su tarea... Me negué en rotundo. Tendrá que expiar sus crímenes.~ 
+@4297 = ~El tormento de Svlast 
+Tras sobrevivir al ataque del espectro con nuestra ayuda, el pobre y desdichado Svlast nos suplicó que completáramos su tarea... ¡Uno pensaría que mostraría algo de gratitud!~ 
+@4298 = ~El tormento de Svlast 
+Tras sobrevivir al ataque del espectro con nuestra ayuda, el pobre y desdichado Svlast nos suplicó que completáramos su tarea... ¿Quién era yo para negarme?~
